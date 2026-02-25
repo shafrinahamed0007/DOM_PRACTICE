@@ -7,9 +7,9 @@
 3.  selecting elements using DOM
 4.  getElementById(): The getElementById() method returns and Element object that represents an HTML element.
 5.  getElementsByName()
-6.  getElementsByTagName()
-7.  getElementsByClassName()
-8.  querySelector() and querySelectorAll()
+6.  getElementsByTagName(): The getElementByTagName() method accepts a tag name and returns a live HTMLCollection of elements.
+7.  getElementsByClassName(): The getElementsByClassName() method returns an array-like of object of the child elements with a specified class name
+8.  querySelector() and querySelectorAll(): The querySelector() method allows you select the first element that matches one or more CSS selectors.
 
 9.  Traversing elements:
     1. Selecting parent element
